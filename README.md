@@ -1,3 +1,4 @@
+[![Build Status](https://edgome-msft.visualstudio.com/Space%20Game%20-web%20-%20Pipeline/_apis/build/status/azuregomez.mslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://edgome-msft.visualstudio.com/Space%20Game%20-web%20-%20Pipeline/_build/latest?definitionId=2&branchName=refs%2Fpull%2F2%2Fmerge)
 
 # Contributing
 
